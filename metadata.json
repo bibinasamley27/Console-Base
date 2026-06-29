@@ -1,0 +1,6 @@
+{
+  "name": "Java Student Management System Studio",
+  "description": "Interactive simulator and code workspace for a high-quality beginner Java Student Management System, complete with interactive terminal, source viewer, and guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
